@@ -2,3 +2,14 @@ body {
     background: #d11818;
     
   } 
+  img {
+    border-radius: 8px;
+    height: 50%;
+    width: 35%;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
